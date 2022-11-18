@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gosto-ECommerce/static/css/main.cad1d7be.css",
+    "main.js": "/Gosto-ECommerce/static/js/main.99154c14.js",
+    "static/media/cart.png": "/Gosto-ECommerce/static/media/cart.427f0fe88453c51d151d.png",
+    "static/media/logo.svg": "/Gosto-ECommerce/static/media/logo.9b0b58f362a0cbe507915370c759b3d6.svg",
+    "index.html": "/Gosto-ECommerce/index.html",
+    "main.cad1d7be.css.map": "/Gosto-ECommerce/static/css/main.cad1d7be.css.map",
+    "main.99154c14.js.map": "/Gosto-ECommerce/static/js/main.99154c14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cad1d7be.css",
+    "static/js/main.99154c14.js"
+  ]
+}
